@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen3</string>
+    <string name="Bases" translatable="false">Database</string>
+    <string name="MenuPrincipal" translatable="false">-- Main Menue --</string>
+    <string name="btnSalir" translatable="false">Exit</string>
+    <string name="btnXML" translatable="false">Wheather (XML)</string>
+</resources>

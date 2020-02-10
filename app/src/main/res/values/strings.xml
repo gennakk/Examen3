@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Examen3</string>
+    <string name="MenuPrincipal" translatable="false">-- MENU PRINCIPAL --</string>
+    <string name="Bases" translatable="false">Bases de datos</string>
+    <string name="btnXML" translatable="false">El tiempo (XML)</string>
+    <string name="btnSalir" translatable="false">Salir</string>
+    <string name="MenuBases">Mi Base de Datos de Libros</string>
+    <string name="Nuevo">Nuevo Libro</string>
+    <string name="Listado">Listado libros</string>
+    <string name="buscar">Buscar libro(s)</string>
+    <string name="TituloNuevo">Datos nuevo libro</string>
+    <string name="Insertar">insertar</string>
+    <string name="borrar">borrar</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Autor">Autor</string>
+    <string name="Isbn">ISBN</string>
+    <string name="Editorial">Editorial</string>
+    <string name="NumPag">Num. Paginas</string>
+    <string name="Leido">Leido</string>
+    <string name="Volver">Volver</string>
+    <string name="Cancelar">cancelar</string>
+    <string name="TituloListado">Listado de libros</string>
+    <string name="Leidos">Leidos</string>
+    <string name="NoLeidos">No Leidos</string>
+    <string name="TodosLibros">Todos los libros</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvTituloFragment">INFORMACIÓN DETALLADA DEL LIBRO</string>
+    <string name="eliminar">eliminar</string>
+    <string name="BuscarLibros">Buscar Libros</string>
+    <string name="Marca">Marca la opción por la que deseas buscar</string>
+    <string name="Buscar">buscar</string>
+    <string name="Elige">Elige la ciudad para mostrar datos</string>
+    <string name="Vitoria">Vitoria</string>
+    <string name="Bilbao">Bilbao</string>
+    <string name="Donostia">Donostia</string>
+</resources>
